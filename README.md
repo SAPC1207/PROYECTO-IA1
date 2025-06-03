@@ -1,5 +1,5 @@
 # **Predicción de Accidentes de Tránsito en Base a Factores Externos**
-![Banner](https://ibb.co/Q7465QZ1)
+![Banner]([https://ibb.co/Q7465QZ1](https://i.ibb.co/WNLcT5QY/BANNER.jpg))
 
 ## Autores
 Javier Alejandro Silva Murillo, Oscar Julián Rondón Rendón, Sergio Andrés Pinzón Castellanos.
