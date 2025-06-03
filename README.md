@@ -32,5 +32,5 @@ Se utilizaron técnicas de acceso a datos, carga y visualización, análisis de 
 
 ## Enlaces
 - **Video YouTube:** 
-- **Notebook Funcional:** https://colab.research.google.com/drive/1dLuq39CjTWQhzLUoRzD07VGOTDEsP_8w?usp=sharing
+- **Notebook Funcional:** https://colab.research.google.com/drive/15WYAKmIiJDjzWOy6NtofHEFof_Xmf7NL?usp=drive_link
 - **Presentación en Canva:** https://www.canva.com/design/DAGpRA_xObA/6I2BORT8w2IJqCXsDXfQ5A/edit?utm_content=DAGpRA_xObA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
