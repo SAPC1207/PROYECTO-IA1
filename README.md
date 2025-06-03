@@ -31,6 +31,6 @@ Este conjunto de datos permite analizar patrones de accidentes, identificar fact
 Se utilizaron técnicas de acceso a datos, carga y visualización, análisis de desbalanceo y preprocesamiento que incluyó eliminación de columnas, imputación, codificación y manejo del desbalanceo con **SMOTE**. Se realizó reducción de dimensionalidad con **PCA**, división de datos, normalización, codificación de la variable objetivo y se aplicaron técnicas de regularización y pesos de clase para el entrenamiento de modelos evaluados con classification reports.
 
 ## Enlaces
-- **Video YouTube:** 
+- **Video YouTube:** https://youtu.be/Oka2kSBKbQg
 - **Notebook Funcional:** https://colab.research.google.com/drive/15WYAKmIiJDjzWOy6NtofHEFof_Xmf7NL?usp=drive_link
 - **Presentación en Canva:** https://www.canva.com/design/DAGpTEDHoOI/U_g7GzT2dzVxaH0xHIAIMQ/edit?utm_content=DAGpTEDHoOI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
